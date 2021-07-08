@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Grants'
 subtitle:
 
 # Date format
@@ -23,29 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: ""
+  date_end: "2023-09-01"
+  date_start: "2021-09-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: SNSF Project Funding
+  organization_url: https://www.snf.ch/
+  title: This is not my body. The disrupted bodily self of neurological patients
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: 
+  date_end: "2021-12-01"
+  date_start: "2020-01-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Boninchi Foundation
+  organization_url: https://www.fondationboninchi.ch/
+  title: Unawareness of neurological disease. Explicit and implicit measures, brain correlates, and recovery of awareness
+  url: ""
+- certificate_url: ""
+  date_end: "2020-12-01"
+  date_start: "2017-12-01"
+  description: ""
+  organization: SNSF Marie Heim-Vögtlin career grant
+  organization_url: 
+  title: Unawareness of neurological disease. Explicit and implicit measures, brain correlates, and recovery of awareness.
+  url: ""
+- certificate_url: "" 
+  date_end: "2014-04-01"
+  date_start: "2016-07-01"
+  description: ""
+  organization: EPFL's postdoctoral fellowship co-founded by Marie Curie
+  organization_url: https://www.epfl.ch/research/initiatives/epfl-fellows/
+  title: 'Brain mechanisms of exteroceptive and interoceptive integration in bodily self-consciousness.'
   url: ""
 
 design:
